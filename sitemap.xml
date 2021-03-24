@@ -2,37 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://cv.pivic.com/</loc>
+    <loc>http://cv.pivic.com/public/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://cv.pivic.com/extender/structure/</loc>
+    <loc>http://cv.pivic.com/public/categories/</loc>
   </url><url>
-    <loc>http://cv.pivic.com/extender/timeline/</loc>
-  </url><url>
-    <loc>http://cv.pivic.com/extender/documentation-by-others/</loc>
-  </url><url>
-    <loc>http://cv.pivic.com/extender/first-meeting-with-magnus-bellon/</loc>
-  </url><url>
-    <loc>http://cv.pivic.com/extender/invs-347-documentation-for-extender/</loc>
-  </url><url>
-    <loc>http://cv.pivic.com/extender/martin-cs-pres/martin-christersson-snow-academy/</loc>
-  </url><url>
-    <loc>http://cv.pivic.com/extender/questions/</loc>
-  </url><url>
-    <loc>http://cv.pivic.com/extender/ulf-b.-presents-snaas/</loc>
-  </url><url>
-    <loc>http://cv.pivic.com/test/2020-12-02/</loc>
-  </url><url>
-    <loc>http://cv.pivic.com/test/onsdagspulsen-2021-02-24/</loc>
-  </url><url>
-    <loc>http://cv.pivic.com/test/onsdagspulsen-2021-03-17/</loc>
-  </url><url>
-    <loc>http://cv.pivic.com/categories/</loc>
-  </url><url>
-    <loc>http://cv.pivic.com/extender/</loc>
-  </url><url>
-    <loc>http://cv.pivic.com/tags/</loc>
-  </url><url>
-    <loc>http://cv.pivic.com/test/</loc>
+    <loc>http://cv.pivic.com/public/tags/</loc>
   </url>
 </urlset>
