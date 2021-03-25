@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Niklas Pivic&#39;s CV</title>
-    <link>http://pivic.github.io/</link>
+    <link>https://pivic.github.io/</link>
     <description>Recent content on Niklas Pivic&#39;s CV</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://pivic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://pivic.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
